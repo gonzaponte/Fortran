@@ -1,0 +1,2 @@
+FTN95.EXE "C:\Users\Gonzalo\Dropbox\Miña\Fortran\equilibracion.f90" /NO_BANNER /VS7 /DELETE_OBJ_ON_ERROR /ERROR_NUMBERS /UNLIMITED_ERRORS /FPP /BINARY "Release\Win32\equilibracion.obj" 
+slink.exe -OUT:"Release\Win32\equilibracion.exe" @"C:\Users\Gonzalo\Dropbox\Miña\Fortran\equilibracion\link.lst"
